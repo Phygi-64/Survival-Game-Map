@@ -27,6 +27,60 @@
    "y": 358,
    "desc": "Avec L'Arcane",
    "image": ""
+  },
+  {
+   "id": "pmu8skthdzi34",
+   "name": "Volcan",
+   "type": "ile",
+   "x": 84,
+   "y": 69,
+   "desc": "L'île du volcan est très chaude et fais des dégâts de chaleur. On y trouve du sulfur",
+   "image": ""
+  },
+  {
+   "id": "pmu8smcnczbdc",
+   "name": "Arctique",
+   "type": "ile",
+   "x": 524,
+   "y": 632,
+   "desc": "Ile Arctique qui donne un effet de froid qui fait des dégâts. On y trouve de la glace.",
+   "image": ""
+  },
+  {
+   "id": "pmu8snjsikik7",
+   "name": "Jungle",
+   "type": "ile",
+   "x": 647,
+   "y": 318,
+   "desc": "Ile de la jungle. On y trouve beaucoup d'or, un temple maya et des crocodiles.",
+   "image": ""
+  },
+  {
+   "id": "pmu8so7th9utx",
+   "name": "Arène",
+   "type": "lieu",
+   "x": 516,
+   "y": 92,
+   "desc": "Ici on peut y faire des raids tout seul ou a plusieurs.",
+   "image": ""
+  },
+  {
+   "id": "pmu8spvy3ibep",
+   "name": "Désert",
+   "type": "ile",
+   "x": 119,
+   "y": 442,
+   "desc": "Ile du désert. On y trouve un labyrinthe, des lions, une grotte avec du fer.",
+   "image": ""
+  },
+  {
+   "id": "pmu8sre2007e0",
+   "name": "Ile Principale",
+   "type": "ile",
+   "x": 372,
+   "y": 353,
+   "desc": "Une île complètement normal avec des arbres et des minerais.",
+   "image": ""
   }
  ]
 }
