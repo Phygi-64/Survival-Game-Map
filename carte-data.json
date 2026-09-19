@@ -39,7 +39,7 @@
   },
   {
    "id": "pmu8smcnczbdc",
-   "name": "Arctique",
+   "name": "Île Arctique",
    "type": "ile",
    "x": 524,
    "y": 632,
@@ -80,6 +80,15 @@
    "x": 372,
    "y": 353,
    "desc": "Une île complètement normal avec des arbres et des minerais.",
+   "image": ""
+  },
+  {
+   "id": "pmu8stijwd6z7",
+   "name": "Chez Ambre",
+   "type": "lieu",
+   "x": 453,
+   "y": 329,
+   "desc": "C'est ma cousine et elle habite la.",
    "image": ""
   }
  ]
