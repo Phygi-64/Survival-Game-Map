@@ -83,12 +83,21 @@
    "image": ""
   },
   {
-   "id": "pmu8stijwd6z7",
-   "name": "Chez Ambre",
+   "id": "pmu9iybr64f4z",
+   "name": "Chez Ezekiel",
    "type": "lieu",
-   "x": 453,
-   "y": 329,
-   "desc": "C'est ma cousine et elle habite la.",
+   "x": 425,
+   "y": 296,
+   "desc": "",
+   "image": ""
+  },
+  {
+   "id": "pmu9iysw8wdc1",
+   "name": "Trade Place",
+   "type": "lieu",
+   "x": 340,
+   "y": 524,
+   "desc": "Ici on y fait des traders. Il y a des champs, un marchand et un coffre pour faire des dons de pièces.",
    "image": ""
   }
  ]
