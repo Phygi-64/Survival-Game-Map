@@ -1,0 +1,23 @@
+{
+ "version": 1,
+ "places": [
+  {
+   "id": "pmuffqy95sd2s",
+   "name": "Marchand asiatique",
+   "type": "lieu",
+   "x": 49,
+   "y": 115,
+   "desc": "Marchand asiatique",
+   "image": ""
+  },
+  {
+   "id": "pmuffr9hhk99g",
+   "name": "Boss Samouraï",
+   "type": "lieu",
+   "x": 109,
+   "y": 46,
+   "desc": "Ici ce trouve le boss samouraï qui drop de l'adamantine",
+   "image": ""
+  }
+ ]
+}
